@@ -10,7 +10,7 @@ pip install bs4
 
 pip install mechanize
 
-git clone https://github.com/HemtKhan/HKJ
+git clone https://github.com/HemtKhan/HKJ
 
 cd HKJ
 
