@@ -14,4 +14,4 @@ git clone https://github.com/HemtKhan/HKJ
 
 cd HKJ
 
-python HKJ.py
+python HEMAT.py
